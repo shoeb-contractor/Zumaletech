@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Ibrand';
+    src:
+         url('/fonts/ibrand.ttf') format('truetype'),
+         url('/fonts/ibrand.otf') format('opentype');
+}
+
+.font-ibrand {
+    font-family: 'Ibrand', sans-serif;
+}
